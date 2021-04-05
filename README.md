@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klioop&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/Swift-3766AB?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
