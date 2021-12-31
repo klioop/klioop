@@ -19,8 +19,3 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klioop&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🧑🏻‍💻 Stack
-
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square"/> 
-
-
